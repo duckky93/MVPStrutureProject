@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kyler/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="/home/kyler/Desktop/BaseProject/app/build/intermediates/pre-dexed/dev/debug/logging-interceptor-3.5.0_ed85406c1f4207a05ce0d09a6c7e5b29ace1085e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kyler/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/home/kyler/Desktop/BaseProject/app/build/intermediates/pre-dexed/dev/debug/butterknife-annotations-8.8.1_2f74f1449ce28bc9faa0c35c3b09cce876b3b50c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kyler/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/kyler/Desktop/BaseProject/app/build/intermediates/pre-dexed/dev/debug/retrofit-2.3.0_d9535d6462e33e2cc79fd45ec12b3c265045a63b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kyler/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/kyler/Desktop/BaseProject/app/build/intermediates/pre-dexed/dev/debug/okio-1.13.0_31d99a0739c2e7cc39b8b5bb1eaa00be21b8f6b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kyler/.android/build-cache/ceae7cff8e79b2965fc81118eaabfcdaa6775cf8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/home/kyler/Desktop/BaseProject/app/build/intermediates/pre-dexed/dev/debug/classes_63947ceec8803fb3de5204512ed0c90f2db4afde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kyler/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/kyler/Desktop/BaseProject/app/build/intermediates/pre-dexed/dev/debug/converter-gson-2.3.0_0f8a2d791139369cfeb94700256c1b6a7c6aa276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kyler/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/kyler/Desktop/BaseProject/app/build/intermediates/pre-dexed/dev/debug/okhttp-3.8.0_c1ffca94e4045505533e053fb98b74342ea8797d.jar" />
+    </item>
+
+</items>
